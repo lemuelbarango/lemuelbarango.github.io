@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Developer - Responsive Website Template for Developers
  * Version: 1.5
  * Author: Xiaoying Riley
@@ -204,6 +204,9 @@ iframe {
 }
 .latest .item .title a:hover {
   color: #5f6b77;
+}
+.latest .item .project-image {
+  width: 100%;
 }
 .latest .item .project-image:hover {
   -webkit-opacity: 0.8;
